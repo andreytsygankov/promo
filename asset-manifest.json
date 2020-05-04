@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/promo/static/css/main.61f47e84.chunk.css",
+    "main.js": "/promo/static/js/main.ec926a1a.chunk.js",
+    "main.js.map": "/promo/static/js/main.ec926a1a.chunk.js.map",
+    "runtime-main.js": "/promo/static/js/runtime-main.52211e28.js",
+    "runtime-main.js.map": "/promo/static/js/runtime-main.52211e28.js.map",
+    "static/js/2.4702accc.chunk.js": "/promo/static/js/2.4702accc.chunk.js",
+    "static/js/2.4702accc.chunk.js.map": "/promo/static/js/2.4702accc.chunk.js.map",
+    "index.html": "/promo/index.html",
+    "precache-manifest.b890feb2c0beb0ba3cea209e61c7dd88.js": "/promo/precache-manifest.b890feb2c0beb0ba3cea209e61c7dd88.js",
+    "service-worker.js": "/promo/service-worker.js",
+    "static/css/main.61f47e84.chunk.css.map": "/promo/static/css/main.61f47e84.chunk.css.map",
+    "static/js/2.4702accc.chunk.js.LICENSE.txt": "/promo/static/js/2.4702accc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/promo/static/media/Geometria.4307d7ba.ttf",
+    "static/media/Rectangle-45.png": "/promo/static/media/Rectangle-45.bb2169a5.png",
+    "static/media/Rectangle-46.png": "/promo/static/media/Rectangle-46.93b09f5c.png",
+    "static/media/Rectangle-47.png": "/promo/static/media/Rectangle-47.3d6bba5e.png",
+    "static/media/Rectangle-48.png": "/promo/static/media/Rectangle-48.568c6179.png",
+    "static/media/Rectangle-49.png": "/promo/static/media/Rectangle-49.90c85d26.png",
+    "static/media/Rectangle-50.png": "/promo/static/media/Rectangle-50.03580f50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52211e28.js",
+    "static/js/2.4702accc.chunk.js",
+    "static/css/main.61f47e84.chunk.css",
+    "static/js/main.ec926a1a.chunk.js"
+  ]
+}
